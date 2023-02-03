@@ -121,26 +121,24 @@ button {
 }
 
 .quote {
-    height: 300px;
-    width: 800px;
     color: #1f2937;
     display: flex;
     justify-content: center;
     align-items: flex-end;
     flex-direction: column;
-    padding: 96px;
 }
 
 .quote-text {
     font-size: 36px;
     font-weight: 100;
     font-style: italic;
+    padding: 100px 100px 0 100px;
 }
 
 .quote-author {
     font-size: 24px;
     font-weight: bold;
-    padding-right: 24px;
+    padding: 0 100px 100px 100px;
 }
 
 .cta-container {

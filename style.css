@@ -13,9 +13,13 @@ body {
     color: #E5E7EB;
 }
 
-.header {
+.header, .footer {
     display: flex;
     padding: 16px;
+}
+
+.footer {
+    justify-content: center;
 }
 
 .header-text {

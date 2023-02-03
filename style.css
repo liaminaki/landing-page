@@ -8,7 +8,7 @@ body {
     margin: 0 auto;
 }
 
-.dark-bg-color {
+.dark-color {
     background-color: #1f2937;
     color: #E5E7EB;
 }
@@ -120,7 +120,7 @@ button {
     margin: 8px 0;
 }
 
-.gray-bg-color {
+.gray-color {
     background-color: #E5E7EB;
 }
 

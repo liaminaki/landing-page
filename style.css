@@ -110,3 +110,30 @@ button {
     color: #4a4a4c;
     margin: 8px 0;
 }
+
+.gray-bg-color {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    height: 300px;
+    width: 800px;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 96px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: bold;
+    padding-right: 24px;
+}

@@ -39,6 +39,7 @@ body {
 }
 
 .logo {
+    width: 50px;
     margin-right: auto;
     display: flex;
     align-items: center;

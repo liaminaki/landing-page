@@ -40,7 +40,6 @@ body {
 
 .logo {
     width: 50px;
-    margin-right: auto;
     display: flex;
     align-items: center;
 }
@@ -49,10 +48,16 @@ ul {
     display: flex;
     padding: 0;
     margin: 0;
+    margin-left: auto;
     list-style: none;
     align-items: center;
     gap: 32px;
     font-weight: 200;
+}
+
+a {
+    text-decoration: none;
+    color: #f9faf8;
 }
 
 .hero {

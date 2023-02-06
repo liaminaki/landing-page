@@ -138,7 +138,7 @@ button {
     height: 300px;
 }
 
-.card-img img{
+.card img{
     box-sizing: border-box;
     border-style: solid;
     border-width: 3px;

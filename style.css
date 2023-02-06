@@ -130,7 +130,6 @@ button {
     display: flex;
     justify-content: center;
     gap: 32px;
-    padding-bottom: 48px;
     flex-wrap: wrap;
 }
 
